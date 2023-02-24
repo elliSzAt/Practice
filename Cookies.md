@@ -10,3 +10,5 @@ Tiếp tục cho giá trị của cookies tăng dần và làm mới trang web, 
 Giao diện của trang web đã thay đổi.  
 
     flag: picoCTF{3v3ry1_l0v3s_c00k135_bb3b3535}
+
+https://cpc.vn/vi-vn/Tin-tuc-su-kien/Tin-tuc-chi-tiet/articleId/55308
