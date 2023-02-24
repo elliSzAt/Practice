@@ -7,3 +7,5 @@ Theo gợi ý thì ta sẽ chiếu trang web này lên phần mềm Burpsuite �
   <img width="1140" alt="image" src="https://user-images.githubusercontent.com/125866921/220959355-df17cdc2-4cb7-443d-96e4-8abd0b6de83a.png">  
 
     flag: picoCTF{r3j3ct_th3_du4l1ty_6ef27873}
+
+https://viblo.asia/p/cung-tim-hieu-ve-http-request-methods-djeZ1xBoKWz
