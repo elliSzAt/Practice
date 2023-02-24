@@ -7,4 +7,6 @@ Tại đây ta sẽ thấy mục User-Agent chưa phải là admin, cho đó ta 
 Ta có thể thấy được sự thay đổi ở phần response như sau:  
   <img width="639" alt="image" src="https://user-images.githubusercontent.com/125866921/220969615-921b30b8-62d5-42dc-8935-fb6e219fcc85.png">
 
-Password: rr$Li9%L34qd1AAe27
+    Password: rr$Li9%L34qd1AAe27  
+    
+https://www.geeksforgeeks.org/http-headers-user-agent/
