@@ -12,3 +12,5 @@ Ta nhận thấy ở phần request chưa có header nào để xác định IP 
 
 
 password: Ip_$po0Fing
+
+https://licensesoft.vn/ip-address-la-gi.htm
