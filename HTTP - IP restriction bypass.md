@@ -11,6 +11,6 @@ Ta nhận thấy ở phần request chưa có header nào để xác định IP 
   <img width="638" alt="image" src="https://user-images.githubusercontent.com/125866921/220989375-0c390a09-d61f-4dce-a033-a401c2aa28cc.png">  
 
 
-password: Ip_$po0Fing
+        password: Ip_$po0Fing
 
 https://licensesoft.vn/ip-address-la-gi.htm
