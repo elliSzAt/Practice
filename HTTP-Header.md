@@ -6,6 +6,6 @@ Tương tự ta cũng chiếu trang web lên Burpsuite ở phần proxy, sau đ�
 Khi thêm phần Header-RootMe-Admin: vào phần request ta cần cấp cho nó 1 giá trị, ở đây ta thử cấp cho nó 1 giá trị là true.  
   <img width="640" alt="image" src="https://user-images.githubusercontent.com/125866921/220975099-de8709ad-b621-452c-acc4-af0c2a4a4375.png">  
     
-    Ta thấy tại phần response đã có sự thay đổi.  
+  Ta thấy tại phần response đã có sự thay đổi.  
     
-password: HeadersMayBeUseful
+    password: HeadersMayBeUseful
