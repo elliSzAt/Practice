@@ -9,3 +9,5 @@ Khi thêm phần Header-RootMe-Admin: vào phần request ta cần cấp cho nó
   Ta thấy tại phần response đã có sự thay đổi.  
     
     password: HeadersMayBeUseful
+
+https://freetuts.net/header-request-va-header-response-670.html
